@@ -1,0 +1,1 @@
+open login.html as the first page
